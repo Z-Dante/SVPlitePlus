@@ -1,4 +1,4 @@
-# SVPlite
+# SVPlitePlus - Based on https://github.com/Nuihc88/SVPlite
 SVPlite - Realtime-Optimized AviSynth+ Script-Templates for the SmoothVideo Project's SVPflow-filters.
 
 Project Goal: Making SVPflow libraries more usable and accessible on older computers and portable video players.
